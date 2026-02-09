@@ -1,3 +1,6 @@
+## Project Overview
+This project simulates a production-style workforce dataset generation pipeline used for analytics, internal reporting, and dashboard systems.
+
 # Workforce Data Automation Pipeline
 
 Python-based data engineering project that generates large-scale synthetic HR datasets for analytics, reporting, and dashboard systems.
